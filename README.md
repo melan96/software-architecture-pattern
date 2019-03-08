@@ -8,7 +8,7 @@ This repository mainly focused on Software Architectures and Patterns types with
 ### Current Design Patterns 
 Filter Design Pattern
  - Filter Design pattern in Decorator Implementation
- - 
+
 Business Layer Design Patterns
  - Delegator Design Pattern
     
