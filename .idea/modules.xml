@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intercepting_filter.iml" filepath="$PROJECT_DIR$/intercepting_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software-architecture-pattern.iml" filepath="$PROJECT_DIR$/software-architecture-pattern.iml" />
     </modules>
   </component>
 </project>
